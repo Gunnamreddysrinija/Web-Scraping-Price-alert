@@ -1,0 +1,20 @@
+appdirs==1.4.4
+beautifulsoup4==4.9.1
+certifi==2023.7.22
+chardet==4.0.0  # Updated to a more recent version
+cssselect==1.1.0
+fake-useragent==0.1.11
+idna==3.3  # Updated to a more recent version
+lxml==4.9.1
+parse==1.18.0
+pyee==7.0.4
+pyppeteer==0.2.6  # Specify a version
+pyquery==1.4.1
+requests==2.31.0
+requests-html==0.10.0
+six==1.15.0
+soupsieve==2.0.1
+tqdm==4.49.0
+urllib3==1.26.14  # Updated to a more recent version
+w3lib==1.22.0
+websockets==10.3  # Specify a version
