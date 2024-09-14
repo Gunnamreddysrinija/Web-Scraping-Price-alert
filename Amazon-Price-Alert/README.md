@@ -35,4 +35,5 @@ Do remember to install the dependencies in the requirements.txt file!
 
 This scrapper is complete. A future version may have emails sent via a server.
 
-### Developed by [Sarthak Saxena](https://github.com/sarthak1905)
+### Developed by Gunnamreddy Srinija
+
